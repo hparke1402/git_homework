@@ -4,4 +4,3 @@ One strategy I am committed to is to ask for help when I need it so as to not wa
 My second strategy is to respect the pom breaks- I can tell the difference in my focus and productivity when I skip a break.
 Deannah B helped me stay positive and was supportive when we were doing the git commands driver-navigator scenario in Session 2. We both had some major issues in our terminal but I appreciated her patience and sense of humor and we eventually figured out the solution after class via Slack together.
 I am tiiiiiiiiired
-But I know I can learn!
